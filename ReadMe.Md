@@ -13,7 +13,9 @@ The Weather App includes the following features:
 To get started with the Weather App, follow these steps:
 
 . Clone the repository: git clone https://github.. com/yourusername/weather-app.git
+
 . Navigate to the project directory: cd weather-app
+
 . Open index.html in your web browser
 
 That's it! You should now be able to use the Weather App to check the weather conditions in any location.
