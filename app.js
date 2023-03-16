@@ -17,7 +17,7 @@ searchInput.addEventListener("keyup", (event) => {
 // Define an async function called getWeather that takes a cityName parameter
 async function getWeather(cityName) {
   // Set your OpenWeatherMap API key
-  const apiKey = "YOUR_API_KEY_HERE";
+  const apiKey = "e96de04e1861c7ec3a7df9b963ef7e28";
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}&units=metric`;
 
   try {
