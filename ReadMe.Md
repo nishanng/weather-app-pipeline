@@ -12,7 +12,7 @@ The Weather App includes the following features:
 # Getting Started
 To get started with the Weather App, follow these steps:
 
-. Clone the repository: git clone https://github.. com/yourusername/weather-app.git
+. Clone the repository: git clone https://github.com/nishanng/weather-app-pipeline.git
 
 . Navigate to the project directory: cd weather-app
 
