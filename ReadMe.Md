@@ -33,6 +33,6 @@ If you want to create a deployment pipeline for the Weather App using Docker and
 
 By following these steps, you can create a fully automated deployment pipeline for the Weather App that utilizes Docker, Jenkins, and Kubernetes (if desired).
 
-#You could find the application here: 
+You could find the application here: 
                                         https://nishanng.github.io/weather-app-pipeline/
 
