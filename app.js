@@ -1,6 +1,8 @@
 // Get references to the search button and search bar
-const searchBtn = document.getElementById("search-btn");
-const searchInput = document.getElementById("search-bar");
+const searchBtn = document.querySelector(".btn-icon-content");
+const searchInput = document.querySelector(".input");
+const switchInput = document.querySelector(".input__check");
+const container = document.querySelector(".container");
 
 // Add an event listener to the search button to listen for clicks
 searchBtn.addEventListener("click", () => {
@@ -14,6 +16,14 @@ searchInput.addEventListener("keyup", (event) => {
   }
 });
 
+// Add an event listener to the toggle switch to listen for clicks
+switchInput.addEventListener("click", () => {
+  if (switchInput.checked) {
+    document.body.classList.add("dark-mode");
+  } else {
+    document.body.classList.remove("dark-mode");
+  }
+});
 // Define an async function called getWeather that takes a cityName parameter
 async function getWeather(cityName) {
   // Set your OpenWeatherMap API key
