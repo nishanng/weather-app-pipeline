@@ -26,6 +26,7 @@ body.light-mode {
   flex-direction: column;
   align-items: center;
   padding-top: 50px;
+  margin-left: 4rem;
 }
 
 .header-container {
@@ -36,6 +37,7 @@ body.light-mode {
   position: absolute;
   top: 200x;
   padding: 20px;
+  margin-right: 2rem;
 }
 
 h1 {
