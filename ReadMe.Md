@@ -1,5 +1,5 @@
 # Weather App Deployment 
-Welcome to the Weather App! This is a simple web application that allows users to check the weather conditions in a particular location. The app is built using HTML, CSS, and JavaScript, and it uses the OpenWeather API to fetch weather data.
+Welcome to the Weather App! This is a simple web application that allows users to check the weather conditions for a particular location. The app is built using HTML, CSS, and JavaScript, and it uses the OpenWeather API to fetch weather data.
 
 # Features
 The Weather App includes the following features:
