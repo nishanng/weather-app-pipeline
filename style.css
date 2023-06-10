@@ -266,7 +266,6 @@ radial-gradient(at 55% 24%, hsla(138,60%,62%,1) 0px, transparent 50%);
 /* Weather UI component */
 
 .weather-info {
-  .weather-display {
   z-index: 20; 
   position: absolute; 
   top: 70%; 
